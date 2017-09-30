@@ -2,18 +2,10 @@
   keywords:
       - Java
       - C++
-      - Python
-      - Design Patterns
-
-- name: Mobile Developer Keywords
+      - data mining
+      
+- name: Skill2 Keywords
   keywords:
-      - Android
-      - Reverse Engineering
+      - XXX
+      - XXX
 
-- name: Windows Developer Keywords
-  keywords:
-      - Win32 SDK
-      - DuiLib
-      - WTL
-      - COM
-      - WinDbg
